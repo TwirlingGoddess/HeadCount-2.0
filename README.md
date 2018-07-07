@@ -5,7 +5,7 @@ HeadCount 2.0 is a project designed to challenge your skills at manipulating dat
 
 The application displays educational stats from districts within Colorado by year, per district and allows the user to search by district as well as compare stats between two different districts.
 
-This application was built using the `create-react-app` boilerplate, with Javascript, React, and CSS. It was tested with Jest and enzyme.
+This application was built using the `create-react-app` boilerplate, API fetch calls with Javascript, React, and CSS styling. It was tested with Jest and enzyme.
 
 ## Project Goals
 
