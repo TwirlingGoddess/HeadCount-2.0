@@ -32,5 +32,5 @@ Comparing Districts:
 
 
 #### Group Members
-LeeLee Graham
+Lee Graham
 Tory Dannenberg
