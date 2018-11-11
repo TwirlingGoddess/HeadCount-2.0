@@ -32,4 +32,5 @@ Comparing Districts:
 
 
 #### Group Members
-Lee Graham & Tory Dannenberg
+[Lee Graham](https://github.com/TwirlingGoddess
+) & [Tory Dannenberg](https://github.com/tdberg21)
